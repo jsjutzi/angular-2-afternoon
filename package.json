@@ -1,6 +1,5 @@
 {
   "name": "angular-2-afternoon",
-  "version": "1",
   "scripts": {
     "dev": "live-server ./"
   },
